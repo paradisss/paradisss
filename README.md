@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sophia 👋</h1>
+<h1 align="center">Hi, I'm Paradis 👋</h1>
 <h3 align="center">Full-stack &amp; mobile developer · I turn founders' ideas into launched apps</h3>
 
 <p align="center">
